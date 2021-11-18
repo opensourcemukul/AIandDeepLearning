@@ -24,3 +24,5 @@ Step 4: Learn Matplotlib
     Matplotlib helps you to visualize the data.
     Recommended video: https://www.youtube.com/watch?v=Iw2H3WT-c1s
     
+My slides for complete AI and Deep Learning:
+https://docs.google.com/presentation/d/1xyx6wxI_ucjdVgEqO85VoYCPycw-USmKP9QYhAaok8k/edit?usp=sharing
